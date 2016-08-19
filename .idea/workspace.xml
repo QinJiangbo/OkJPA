@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fa1195b-405a-4fa1-bf15-53d2edd58187" name="Default" comment="change pwd">
+    <list default="true" id="5fa1195b-405a-4fa1-bf15-53d2edd58187" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/datasource.properties" afterPath="$PROJECT_DIR$/conf/datasource.properties" />
     </list>
@@ -874,7 +874,7 @@
       <workItem from="1461252771227" duration="73000" />
       <workItem from="1461284925195" duration="289000" />
       <workItem from="1470761261189" duration="308000" />
-      <workItem from="1471619190170" duration="1194000" />
+      <workItem from="1471619190170" duration="1227000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1470761478861</created>
@@ -890,7 +890,14 @@
       <option name="project" value="LOCAL" />
       <updated>1471620284248</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change pwd">
+      <created>1471620401074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1471620401074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -902,7 +909,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3172000" />
+    <option name="totallyTimeSpent" value="3205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="812" extended-state="6" />
