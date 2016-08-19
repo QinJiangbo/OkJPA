@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fa1195b-405a-4fa1-bf15-53d2edd58187" name="Default" comment="" />
+    <list default="true" id="5fa1195b-405a-4fa1-bf15-53d2edd58187" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/datasource.properties" afterPath="$PROJECT_DIR$/conf/datasource.properties" />
+    </list>
     <ignored path="OkJPA.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -66,8 +69,8 @@
       <file leaf-file-name="datasource.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf/datasource.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="72">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -93,6 +96,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/conf/datasource.properties" />
       </list>
     </option>
   </component>
@@ -869,7 +873,7 @@
       <workItem from="1461252771227" duration="73000" />
       <workItem from="1461284925195" duration="289000" />
       <workItem from="1470761261189" duration="308000" />
-      <workItem from="1471619190170" duration="516000" />
+      <workItem from="1471619190170" duration="1050000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1470761478861</created>
@@ -890,7 +894,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2494000" />
+    <option name="totallyTimeSpent" value="3028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="812" extended-state="6" />
@@ -1219,8 +1223,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/datasource.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="72">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
           <folding />
         </state>
       </provider>
