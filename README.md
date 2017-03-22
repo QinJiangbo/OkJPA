@@ -74,7 +74,7 @@ public class Test {
 6. Well done! Enjoy!
 
 # Download
-you can download from the [here](https://of7vtvi79.qnssl.com/OkJPA-1.0-SNAPSHOT.jar). 
+you can download the lib from the [here](https://of7vtvi79.qnssl.com/OkJPA-1.0-SNAPSHOT.jar). 
 
 ## author
 qinjiangbo1994@163.com

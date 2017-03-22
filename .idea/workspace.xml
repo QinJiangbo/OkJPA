@@ -91,9 +91,9 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="385">
-                <caret line="76" column="32" lean-forward="true" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+                <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
                 <folding>
-                  <marker date="1490196720000" expanded="true" signature="1814:1988" ph="{...}" />
+                  <marker date="1490196741000" expanded="true" signature="1814:1988" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -949,7 +949,7 @@
       <workItem from="1482156033517" duration="25000" />
       <workItem from="1487134551926" duration="15000" />
       <workItem from="1487135209445" duration="17000" />
-      <workItem from="1490190382564" duration="2830000" />
+      <workItem from="1490190382564" duration="2847000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1470761478861</created>
@@ -1035,7 +1035,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490193321223</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add some descriptions to this OkJPA">
+      <created>1490196731779</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1490196731779</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1047,7 +1054,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8287000" />
+    <option name="totallyTimeSpent" value="8304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="720" extended-state="6" />
@@ -1510,9 +1517,9 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="385">
-            <caret line="76" column="32" lean-forward="true" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+            <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
             <folding>
-              <marker date="1490196720000" expanded="true" signature="1814:1988" ph="{...}" />
+              <marker date="1490196741000" expanded="true" signature="1814:1988" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
