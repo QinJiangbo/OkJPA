@@ -90,10 +90,10 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="418">
-                <caret line="70" column="1" lean-forward="true" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+              <first_editor relative-caret-position="308">
+                <caret line="15" column="93" lean-forward="false" selection-start-line="15" selection-start-column="93" selection-end-line="15" selection-end-column="93" />
                 <folding>
-                  <marker date="1490192854000" expanded="true" signature="1804:1978" ph="{...}" />
+                  <marker date="1490192964000" expanded="true" signature="1821:1995" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -949,7 +949,7 @@
       <workItem from="1482156033517" duration="25000" />
       <workItem from="1487134551926" duration="15000" />
       <workItem from="1487135209445" duration="17000" />
-      <workItem from="1490190382564" duration="1734000" />
+      <workItem from="1490190382564" duration="1835000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1470761478861</created>
@@ -1007,7 +1007,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487135216261</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add some descriptions to this OkJPA">
+      <created>1490192886287</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1490192886287</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1019,7 +1026,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7191000" />
+    <option name="totallyTimeSpent" value="7292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="720" extended-state="6" />
@@ -1071,7 +1078,8 @@
     <MESSAGE value="modify the data source" />
     <MESSAGE value="change the connect pool capacity" />
     <MESSAGE value="change password" />
-    <option name="LAST_COMMIT_MESSAGE" value="change password" />
+    <MESSAGE value="add some descriptions to this OkJPA" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some descriptions to this OkJPA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1480,10 +1488,10 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="418">
-            <caret line="70" column="1" lean-forward="true" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+          <first_editor relative-caret-position="308">
+            <caret line="15" column="93" lean-forward="false" selection-start-line="15" selection-start-column="93" selection-end-line="15" selection-end-column="93" />
             <folding>
-              <marker date="1490192854000" expanded="true" signature="1804:1978" ph="{...}" />
+              <marker date="1490192964000" expanded="true" signature="1821:1995" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

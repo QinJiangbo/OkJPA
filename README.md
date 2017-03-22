@@ -3,7 +3,7 @@ OkJPA is a Java Persistent API framework which is based completely on annotation
 XML configurations, no more XML files, just annotations!
 
 # quick start
-1. provide the datasource.properties files in the classpath, eg. project-name/conf/datasource.properties.
+1. provide the datasource.properties files in the classpath, eg. `project-name/conf/datasource.properties`.
 datasource.properties
 
 ``` properties
@@ -13,7 +13,7 @@ username = Richard
 password = 123456
 capacity = 50
 ```
-2. provide the log4j.properties in case of logging, eg. project-name/conf/log4j.properties
+2. provide the log4j.properties in case of logging, eg. `project-name/conf/log4j.properties`.
 
 ```properties
 log4j.rootLogger = INFO, MyJPA
@@ -46,13 +46,13 @@ public interface UserMapper {
 	public int addUser(User user);
 	
 	@Select("select user_id from User")
-    public List<Long> getUserIds();
+        public List<Long> getUserIds();
 	
 	@Delete("delete from User where name = ${ name}")
-    public int deleteUsers(@Param("name") String name);
+        public int deleteUsers(@Param("name") String name);
 	
 	@Select("select count(*) n from User")
-    public int getUserCount();
+        public int getUserCount();
     
 }
 ```
