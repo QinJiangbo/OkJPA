@@ -63,7 +63,7 @@ OkJPA will do it for you.
 ```java
 public class Test {
     @Test
-    public void testGenericPrimitive2() {
+    public void testGetUserIds() {
         UserMapper userMapper = session.getMapper(UserMapper.class);
         List<Long> list = userMapper.getUserIds(18);
         Assert.assertEquals(2, list.size());
