@@ -2,7 +2,7 @@
 OkJPA is a Java Persistent API framework which is based completely on annotations. No more
 XML configurations, no more XML files, just annotations!
 
-# quick start
+# Quick Start
 1. provide the datasource.properties files in the classpath, eg. `project-name/conf/datasource.properties`.
 datasource.properties
 
