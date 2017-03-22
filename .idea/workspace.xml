@@ -90,10 +90,10 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="462">
-                <caret line="73" column="20" lean-forward="false" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+              <first_editor relative-caret-position="385">
+                <caret line="76" column="32" lean-forward="true" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
                 <folding>
-                  <marker date="1490193313000" expanded="true" signature="1814:1988" ph="{...}" />
+                  <marker date="1490196720000" expanded="true" signature="1814:1988" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -949,7 +949,7 @@
       <workItem from="1482156033517" duration="25000" />
       <workItem from="1487134551926" duration="15000" />
       <workItem from="1487135209445" duration="17000" />
-      <workItem from="1490190382564" duration="2167000" />
+      <workItem from="1490190382564" duration="2830000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1470761478861</created>
@@ -1028,7 +1028,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490193296591</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add some descriptions to this OkJPA">
+      <created>1490193321223</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1490193321223</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1040,7 +1047,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7624000" />
+    <option name="totallyTimeSpent" value="8287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="720" extended-state="6" />
@@ -1502,10 +1509,10 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="462">
-            <caret line="73" column="20" lean-forward="false" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+          <first_editor relative-caret-position="385">
+            <caret line="76" column="32" lean-forward="true" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
             <folding>
-              <marker date="1490193313000" expanded="true" signature="1814:1988" ph="{...}" />
+              <marker date="1490196720000" expanded="true" signature="1814:1988" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
